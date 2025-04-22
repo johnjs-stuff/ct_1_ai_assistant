@@ -1,5 +1,5 @@
-# Crafting Table - Capstone project 1
-Crafting Table Capstone project 1 - AI Assistant with a USB keyboard
+# Crafting Academy - Capstone project 1
+Crafting Academy Capstone project 1 - AI Assistant with a USB keyboard
 
 Hardware used:
 * TTGO Lilygo T-Display
