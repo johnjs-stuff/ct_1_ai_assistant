@@ -5,7 +5,7 @@ It ain't much but it is working. A USB keyboard is used to enter some text for a
 
 Hardware used:
 * TTGO Lilygo T-Display
-* USB keyboard (Brand "XTime". Refer to image)
+* USB keyboard (Brand "XTime". Refer to image AIAssistant.jpg)
 * Breadboard power supply (similar to https://www.amazon.com/Magic-shell-Breadboard-Battery-Assortment/dp/B07RVHQB1S)
 * 9V battery and connector
 * 2 x 10K resistors
@@ -14,6 +14,7 @@ Other Setups:
 * An account with OpenAI and the ability to create an API key.
   
 Notes:
+* The wiring diagram is "Capstone_1_AI_Assistant_bb.jpg".
 * This only works for my USB keyboard which is branded "XTime". It doesn't work with my wired Apple keyboard or my wired Microsoft keyboard. Other keyboards may or may not work.
 * A breadboard power supply is used to provide power for the keyboard. The voltage is set to 5V.
 * 2 x 10K pullup resistors are needed for the inputs.
