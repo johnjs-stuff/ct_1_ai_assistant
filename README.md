@@ -9,6 +9,7 @@ Hardware used:
 * Breadboard power supply (similar to https://www.amazon.com/Magic-shell-Breadboard-Battery-Assortment/dp/B07RVHQB1S)
 * 9V battery and connector
 * 2 x 10K resistors
+* USB socket
 
 Other Setups:
 * An account with OpenAI and the ability to create an API key.
