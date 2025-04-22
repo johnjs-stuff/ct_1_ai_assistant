@@ -9,7 +9,7 @@ Hardware used:
 * 2 x 10K resistors
 
 Notes:
-* This only works for my USB keyboard which is brancded "XTime". It doesn't work with an a wired Apple keyboard or a Microsoft keyboard.
+* This only works for my USB keyboard which is brancded "XTime". It doesn't work with my wired Apple keyboard or my wired Microsoft keyboard. Other keyboards may or may not work.
 * A breadboard power board is used to provide power for the keyboard. The voltage is set to 5V.
 * 2 10K pullup resistors are needed for the inputs.
 * The MySecrets.h file has to be modified with your network name, network password and OpenAI APIkey.
