@@ -3,7 +3,7 @@ Crafting Academy Capstone project 1 - AI Assistant with a USB keyboard
 
 Hardware used:
 * TTGO Lilygo T-Display
-* USB keyboard (brand XTime)
+* USB keyboard (Brand "XTime". Refer to image)
 * Breadboard power supply (similar to https://www.amazon.com/Magic-shell-Breadboard-Battery-Assortment/dp/B07RVHQB1S)
 * 9V battery and connector
 * 2 x 10K resistors
