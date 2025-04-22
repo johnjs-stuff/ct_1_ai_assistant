@@ -39,7 +39,7 @@ void setup() {
   tft.setRotation(1);
   tft.setTextWrap(true, false);
   tft.setTextFont(2);
-  tft.setTextColor(TFT_YELLOW, TFT_BLACK);
+  tft.setTextColor(TFT_LIGHTGREY, TFT_BLACK);
 
   // Setup the WiFi connection
   connectToWifi();
@@ -147,11 +147,11 @@ void sendAiRequest(char *prompt) {
   String response = aiClient.getResponseForRequest(prompt);
   responseHandler.loadResponse(response);
   const char *messageContent = responseHandler.getMessageContent();
-  showReponseMessage(messageContent);
+  showResponseMessage(messageContent);
   return;
 }
 
-void showReponseMessage(const char *message) {
+void showResponseMessage(const char *message) {
   tft.fillScreen(TFT_BLACK);
   tft.setCursor(0, 0);
   tft.print(message);
