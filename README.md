@@ -1,7 +1,7 @@
 # Crafting Academy - Capstone project 1
 Crafting Academy Capstone project 1 - AI Assistant with a USB keyboard
 
-It ain't much but it is working. A USB keyboard is used to enter a prompt. The keyboard handler can only cope with lower case characters and minimal puncutation. The entered text is displayed on the small screen of the T-Display as it is typed. For those who make the occasional mistake, the backspace key can be used to remove the last entered character. At the press of the Enter/Return key, the entered text is sent to the OpenAI API, using a WiFi connection. After OpenAI returns a response the actual message is extracted from the response and displayed on the small screen of the T-Display microcontroller in what can be described as the smallest readable font, at least for my eyesight. Not very useful but proof that it can be done.
+It ain't much but it is working. A USB keyboard is used to enter some text for a prompt. The keyboard handler can only cope with lower case characters and minimal punctuation. The entered text is displayed on the small screen of the T-Display as it is typed. For those who make the occasional typo, the backspace key can be used to remove the last entered character. At the press of the Enter/Return key, the entered text is sent as a prompt to the OpenAI API, using a WiFi connection. After OpenAI returns a response the actual message is extracted from the response and displayed on the small screen of the T-Display microcontroller in what can be described as the smallest readable font, at least for my eyesight. Not very useful but proof that it can be done.
 
 Hardware used:
 * TTGO Lilygo T-Display
